@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Medicinal LLM**
 
-- 🌱 I’m currently learning ReactJs while also enhancing my skills in Penetration Testing & AI Training **ReactJS,PyTorch**
+- 🌱 I’m currently learning ReactJs while also enhancing my skills in Penetration Testing & AI Training using **ReactJS,PyTorch**
 
 - 📫 How to reach me **aayushsingh6971@gmail.com**
 
